@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": false,
+    "[cpp]": {
+        "editor.quickSuggestions": true
+    },
+    "[c]": {
+        "editor.quickSuggestions": true
+    },
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        ".clang-format": "yaml"
+    }
+}
