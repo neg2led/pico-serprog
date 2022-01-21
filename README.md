@@ -6,11 +6,11 @@ It does not require a custom version of flashrom, just drag the compiled uf2 ont
 
 The default pin-out is:
 | Pin | Function |
-|---|---|
-| 1 | CS |
-| 2 | SCK |
-| 3 | MOSI |
-| 4 | MISO |
+|-----|----------|
+| 1   | CS |
+| 2   | SCK |
+| 3   | MOSI |
+| 4   | MISO |
 
 ## Usage
 
